@@ -8,7 +8,7 @@ export const Lenguabuton = () => {
   return (
     <div class="w-[70%] h-[60px] mt-15 border-[5px] border-green-700 m-auto flex justify-around">
       <img
-        src="/public/idioma.svg"
+        src="/idioma.svg"
         alt=" logo de idiomas"
         className="w-[40%] h-[100%] items-center "
       />
