@@ -1,5 +1,5 @@
 import useTheme from "../Hooks/useTheme";
-import dark1 from "/public/dark.svg"
+import dark1 from "/dark.svg"
 
 
 export const Modonoche = () => {
