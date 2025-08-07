@@ -7,15 +7,11 @@ export const Registerformulario = () => {
 
     const [showPassword, setShowPassword] = useState(false);
 
-    const handleLogin = () => {
-        <Link to="/">
-        
-         </Link>
-    }
+ 
 
      return (
        <form
-      onSubmit={handleLogin}
+    //   onSubmit={handleLogin}
       className="w-full h-1/2  flex flex-col gap-3 justify-evenly font-NotoSans mt-2"
     >
        <label className="h-[58px] w-[80%] border-4 border-green-700 content-center flex gap-5 p-2 font-normal text-[16px] m-auto">
